@@ -8,4 +8,6 @@ function About() {
       <img src={image} alt="I made this" />
     </div>
   );
-}
+};
+
+export default About
